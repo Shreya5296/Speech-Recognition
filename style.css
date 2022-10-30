@@ -1,0 +1,22 @@
+body
+{
+	text-align: center;
+	background-image: url("bg.jpeg");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+h3,h2{
+	background-color: white
+}
+span
+{
+	background-color: white;
+	font-size: 20px;
+	color:black;
+}
+canvas
+{
+	background-color: bisque;
+	border-radius: 20px;
+}
